@@ -1,0 +1,2 @@
+1. javac nameOfTheSourceFile.java - creates .class file if successful
+2. java nameOfTheClassFile - without the .class extension
